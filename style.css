@@ -1,0 +1,82 @@
+body{
+    align-items: center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+h1{
+    color:aquamarine;
+}
+
+.legenda{
+    color: white;
+    text-align: center;
+}
+
+#tabela-lan-ac{
+    margin: 30px;
+}
+
+button{
+    align-items:center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    height: 40px;
+    justify-content:flex-start;
+    margin:0;
+    padding:2px;;
+    width: 40px;
+}
+
+.numero{
+    align-self: flex-start;
+    font-size:10px;
+}
+
+
+
+.IA{
+    border: solid 1px #FAE128;
+    color:#FAE128;
+}
+
+.IIA{
+    border:solid 1px #41F1FA;
+    color:#41F1FA;
+}
+
+.B{
+    border:solid 1px #12a1a8;
+    color: #12a1a8;
+}
+
+.nao-metais{
+    border: solid 1px chartreuse;
+    color:chartreuse;
+}
+
+.outros-metais{
+    border: solid 1px blueviolet;
+    color: blueviolet;
+}
+
+.VIIA{
+    border: solid 1px #FA3A83;
+    color:#FA3A83;
+}
+
+.gases-nobres{
+    border: solid 1px #FA741B;
+    color:#FA741B;
+}
+
+#tabela-lan-ac button{
+    border: solid 1px #34FA42;
+    color: #34FA42 ;
+}
+
